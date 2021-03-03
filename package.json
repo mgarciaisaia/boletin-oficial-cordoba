@@ -1,0 +1,10 @@
+{
+  "name": "boletin-oficial-cordoba-scrapper",
+  "version": "0.1.0",
+  "description": "Scrap Cordoba's Boletin Oficial website for every issue's link",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^7.1.0"
+  }
+}
